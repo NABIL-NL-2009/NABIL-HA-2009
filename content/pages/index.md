@@ -50,7 +50,7 @@ sections:
     text: |+
       ###### *My phone number* : **(+212 6 12 41 42 \*\* )**
 
-      # *`My Channel in Youtube`*` Nabil_HA`
+      # *`My Channel in Youtube :`*` Nabil_HA`
 
     form:
       type: FormBlock
