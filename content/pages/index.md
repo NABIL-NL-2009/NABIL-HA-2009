@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: "I’m NABIL KADDA,\_ \_ \_ \_ \_i hAVE A CHANNEL HER NAME IS \"NABIL_ha\""
     subtitle: >-
