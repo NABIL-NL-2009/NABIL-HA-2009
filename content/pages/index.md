@@ -47,7 +47,11 @@ sections:
     actions: []
   - type: ContactSection
     title: Contact Me "NABIL KADDA"
-    text: I'm look forward to hearing from you.
+    text: |+
+      ###### *My phone number* : **(+212 6 12 41 42 \*\* )**
+
+      # *`My Channel in Youtube`*` undefined undefined`
+
     form:
       type: FormBlock
       title: Title of the form
