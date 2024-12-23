@@ -191,4 +191,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/contact.jpg
 ---
